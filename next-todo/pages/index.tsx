@@ -1,14 +1,19 @@
-import {NextPage} from "next";
+import { NextPage } from "next";
+// import React from 'react'
 import styled from "styled-components";
-import React from "react";
 
 const Container = styled.div`
-  font-style:italic;
+  font-style : italic;
 `
 
 const index:NextPage = () =>{
-  return <div>Hello Typescript</div>
+  return(
+    <Container>
+    <h1>안뇽</h1>
+    <h2>안뇽</h2>
+    <h3>안뇽</h3>
+    </Container>
+  ) 
 }
 
 export default index;
-
