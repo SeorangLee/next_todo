@@ -1,0 +1,8 @@
+[
+  {"id":1, "content":"next.js 공부", "color":"red", "checked":true},
+  {"id":2, "content":"저녁 굶기", "color":"orange", "checked":false},
+  {"id":3, "content":"알고리즘 공부", "color":"yellow", "checked":false},
+  {"id":4, "content":"스페인어 공부", "color":"green", "checked":false},
+  {"id":5, "content":"설거지하기", "color":"blue", "checked":false},
+  {"id":6, "content":"강아지 산책시키기", "color":"navy", "checked":false}
+]
